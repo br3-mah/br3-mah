@@ -2,7 +2,7 @@
 - 👀 I’m interested in Code
 - 🌱 I’m currently learning Dart
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me nyeleti.bremah@gmail.com
+- 📫 How to reach me nyeleti.bremah@gmail.com/ 260772147755
 
 <!---
 br3-mah/br3-mah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
