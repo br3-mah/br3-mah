@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @br3-mah
 - 👀 I’m interested in Code
-- 🌱 I’m currently learning Dart
+- 🌱 I’m currently learning GoLang
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me nyeleti.bremah@gmail.com/ 260772147755
 
